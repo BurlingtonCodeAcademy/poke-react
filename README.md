@@ -1,4 +1,4 @@
-Welcome to the Burlington Code Academy React Pokedex application. For this workshop we will be building out a site to act as our Pokedex using the www.pokeapi.com site to fetch information about all the current Pokemon, which we will be displaying in batches of 20 on our site.
+Welcome to the Burlington Code Academy React Pokedex application. For this workshop we will be building out a site to act as our Pokedex using the pokeapi.co site to fetch information about all the current Pokemon, which we will be displaying in batches of 20 on our site.
 
 To get started:
  1. Use git to clone down this repository so you have a local copy
